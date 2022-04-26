@@ -1,5 +1,5 @@
 # Data-Mining-Project
-We are given a dataset of orders sold on the Digikala and Divar platformed. We are tasked to do four things given this dataset 
+given datasets of sell orders of the Digikala and Divar platforms, We have been tasked to do four things: 
 
 ### Phase1
 The initial study of the dataset we have at hand
